@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C, python**
 
-- 👨‍💻 All of my projects are available at [Website is under development](Website is under development)
+- 👨‍💻 All of my projects are available at [Website is under development]
 
 - 📫 How to reach me **subhamkr11012004@gmail.com**
 
